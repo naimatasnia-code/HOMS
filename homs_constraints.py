@@ -2,7 +2,7 @@
 homs_constraints.py
 ===================
 HOMS Layer 4 — Physiological Feasibility Constraints & Penalty Function Φ(x)
-Author: Naima (Math Engines & Digital Twin)
+Math Engines & Digital Twin)
 
 Implements the penalty logic Φ(x) used in:
     H(x) = w1/(1+λ1) + w2/(1+VA) + w3/(1+D2) - w4·Φ(x)
